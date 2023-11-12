@@ -10,7 +10,7 @@ def Special_Char(symbol):
 print(Special_Char(symbol))  
   
   
-#for k in range(rows):
-  #for j in range(columns):
-  #  print(Special_Char(symbol), end="")
- # print()  
+for k in range(rows):
+  for j in range(columns):
+   print(Special_Char(symbol), end="")
+  print()  
